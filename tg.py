@@ -26,7 +26,7 @@ proxies = {'http':f"{random.choice(list(proxy))}", 'https':f"{random.choice(list
 
 
 
-bot_token = '1810482501:AAFH4Ud4Dh4onzOy8slxvCjs2a8avE-6G6E'
+bot_token = '1983819285:AAEXPUnDzJsAxBKp0QZFltGBBnZGVgODcEE'
 bot = telebot.TeleBot(token=bot_token)
 
 
